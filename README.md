@@ -1,4 +1,4 @@
-## 🌱 Plantation Monitoring using SAM Segmentation and Resnet50
+# 🌱 Plantation Monitoring using SAM Segmentation and Resnet50
 
 This project implements a practical pipeline for plantation monitoring using the
 Segment Anything Model (SAM) for instance/semantic segmentation and a ResNet50
