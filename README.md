@@ -56,9 +56,13 @@ Or manually navigate to: http://localhost:8501
 ## 📱 Features
 
 Responsive Design: Works seamlessly on desktop, tablet, and mobile devices
+
 Modern UI: Beautiful animations and hover effects
+
 AI-Powered: Uses Meta's SAM and ResNet50 for image segmentation and classification
+
 User Authentication: Secure login and signup system
+
 Real-time Processing: Upload and analyze plantation images instantly
 
 Note: The first time you run the application, SAM model loading may take 20-60 seconds. Subsequent runs will be faster as the model is cached in session state.
