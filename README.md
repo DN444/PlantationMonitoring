@@ -42,3 +42,11 @@ using Python scripts/notebooks.
 images, run segmentation + classification, and visualize results.
 
 
+
+Steps:
+
+Use maskgen.ipynb to generate image masks, then use segment_transfer.ipynb to finetune the SAM model using this dataset: https://drive.google.com/drive/folders/1qCAFrPwb7R8tOdh_9BYxe2OmOtDJNOKp
+
+Use resnet.ipynb and this dataset: https://www.kaggle.com/datasets/mdwaquarazam/agricultural-crops-image-classification, to finetune the Resnet50 model
+
+Then change any paths in the code appropriately and run using streamlit run app.py
